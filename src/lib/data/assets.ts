@@ -17,6 +17,9 @@ const Assets = {
 	FastApi: a('fastapi'),
 	Flask: a('flask.svg'),
 	Go: a('go.svg'),
+	Aramex: a('aramexLogo.png'),
+	Qreeb: a('Logo-Final-01.png'),
+	Ju: a('juLogo.png'),
 	Kafka: a('kafka.svg'),
 	Neo4j: a('neo4j.svg'),
 	Nginx: a('nginx.svg'),
@@ -70,7 +73,8 @@ const Assets = {
 	Jest: a('jest.png'),
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
-	Postcss: a('postcss.svg')
+	Postcss: a('postcss.svg'),
+	Ovu: a('logo.png')
 };
 
 export default Assets;
