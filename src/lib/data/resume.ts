@@ -1,3 +1,3 @@
-export const data = '/khaledAlshafeey.pdf';
+export const data = '/portfolio/khaledAlshafeey.pdf';
 
 export const title = 'Resumé';
